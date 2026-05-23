@@ -1,0 +1,150 @@
+Liquidity Happy Hours Language Access Quick Cards
+Public Beta 1
+
+Baseline language set: English plus Spanish, Chinese, Tagalog/Filipino, Vietnamese, Arabic, French, Korean, and Portuguese.
+Local issue labs should add jurisdiction-specific languages using ACS and community review.
+Draft plain-language cards. English controls until reviewed locally.
+
+---
+
+English
+
+Three-line method
+- A promise is not a payment.
+- Growth is not settlement.
+- Every public bill needs a named payer.
+
+Five hearing questions
+1. What is being built for this project?
+2. Who legally promises to pay?
+3. What happens if actual load is only 60% of the forecast?
+4. What happens if the project exits in year five?
+5. If the contract, guarantee, or flexibility claim fails, who pays?
+
+---
+
+Spanish / Español
+
+Three-line method
+- Una promesa no es un pago.
+- El crecimiento no salda la cuenta.
+- Toda factura pública necesita un pagador identificado.
+
+Five hearing questions
+1. ¿Qué se va a construir para este proyecto?
+2. ¿Quién se compromete legalmente a pagar?
+3. ¿Qué pasa si la carga real es solo el 60 % de lo previsto?
+4. ¿Qué pasa si el proyecto se retira en el quinto año?
+5. Si falla el contrato, la garantía o la promesa de flexibilidad, ¿quién paga?
+
+---
+
+Chinese / 中文
+
+Three-line method
+- 承诺不是付款。
+- 增长不是结算。
+- 每一笔公共账单都需要具名付款方。
+
+Five hearing questions
+1. 这个项目到底要建什么资产？
+2. 谁在法律上承诺付款？
+3. 如果实际负荷只有预期的 60%，会发生什么？
+4. 如果项目第五年退出，会发生什么？
+5. 如果合同、担保或灵活性承诺失效，谁付款？
+
+---
+
+Tagalog / Filipino
+
+Three-line method
+- Ang pangako ay hindi bayad.
+- Ang paglago ay hindi katumbas ng nabayarang obligasyon.
+- Ang bawat pampublikong singil ay dapat may malinaw na magbabayad.
+
+Five hearing questions
+1. Ano ang itatayo para sa proyektong ito?
+2. Sino ang legal na nangangakong magbayad?
+3. Ano ang mangyayari kung 60% lang ng inaasahang load ang aktwal na magamit?
+4. Ano ang mangyayari kung aalis ang proyekto sa ikalimang taon?
+5. Kung pumalya ang kontrata, garantiya, o pangako ng flexibility, sino ang magbabayad?
+
+---
+
+Vietnamese / Tiếng Việt
+
+Three-line method
+- Lời hứa không phải là khoản thanh toán.
+- Tăng trưởng không có nghĩa là đã thanh toán xong.
+- Mỗi hóa đơn công phải có người trả tiền được nêu rõ.
+
+Five hearing questions
+1. Điều gì sẽ được xây dựng cho dự án này?
+2. Ai cam kết trả tiền theo pháp lý?
+3. Nếu tải thực tế chỉ bằng 60% dự báo thì điều gì xảy ra?
+4. Nếu dự án rút lui vào năm thứ năm thì điều gì xảy ra?
+5. Nếu hợp đồng, bảo lãnh hoặc cam kết linh hoạt không thực hiện được, ai sẽ trả tiền?
+
+---
+
+Arabic / العربية
+
+Three-line method
+- الوعد ليس دفعة.
+- النمو لا يعني تسوية الحساب.
+- كل فاتورة عامة تحتاج إلى جهة دفع محددة.
+
+Five hearing questions
+1. ما الذي سيُبنى لهذا المشروع؟
+2. من يتعهد قانونياً بالدفع؟
+3. ماذا يحدث إذا كان الحمل الفعلي 60٪ فقط من المتوقع؟
+4. ماذا يحدث إذا انسحب المشروع في السنة الخامسة؟
+5. إذا فشل العقد أو الضمان أو وعد المرونة، فمن يدفع؟
+
+---
+
+French / Français
+
+Three-line method
+- Une promesse n’est pas un paiement.
+- La croissance ne règle pas la facture.
+- Chaque facture publique doit avoir un payeur nommé.
+
+Five hearing questions
+1. Que va-t-on construire pour ce projet ?
+2. Qui promet légalement de payer ?
+3. Que se passe-t-il si la charge réelle n’atteint que 60 % des prévisions ?
+4. Que se passe-t-il si le projet se retire la cinquième année ?
+5. Si le contrat, la garantie ou la promesse de flexibilité échoue, qui paie ?
+
+---
+
+Korean / 한국어
+
+Three-line method
+- 약속은 지불이 아닙니다.
+- 성장은 결제가 아닙니다.
+- 모든 공공 청구서에는 명시된 지급자가 있어야 합니다.
+
+Five hearing questions
+1. 이 프로젝트를 위해 무엇이 지어집니까?
+2. 누가 법적으로 비용 지급을 약속합니까?
+3. 실제 전력 사용량이 예상치의 60%에 그치면 어떻게 됩니까?
+4. 프로젝트가 5년 차에 철수하면 어떻게 됩니까?
+5. 계약, 보증 또는 유연성 약속이 실패하면 누가 비용을 부담합니까?
+
+---
+
+Portuguese / Português
+
+Three-line method
+- Promessa não é pagamento.
+- Crescimento não quita a conta.
+- Toda conta pública precisa de um pagador identificado.
+
+Five hearing questions
+1. O que será construído para este projeto?
+2. Quem promete pagar legalmente?
+3. O que acontece se a carga real for apenas 60% da previsão?
+4. O que acontece se o projeto sair no quinto ano?
+5. Se o contrato, a garantia ou a promessa de flexibilidade falhar, quem paga?

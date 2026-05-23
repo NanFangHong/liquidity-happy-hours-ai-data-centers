@@ -6,7 +6,8 @@
 - Added static direct route HTML for organization pages and AI Data Center issue-lab pages.
 - Added a canonical issue-lab front door at `/issues/ai-data-centers/`.
 - Added copy, download, and phone-card actions to the Pocket Card page itself.
-- Added bilingual quick-card entry points for the method lines and five hearing questions.
+- Replaced the bilingual quick card with a language access selector covering English, Spanish, Chinese, Tagalog/Filipino, Vietnamese, Arabic, French, Korean, and Portuguese.
+- Added a downloadable language access quick-card kit and a rule requiring local language checks before broad outreach.
 - Moved Evidence and Launch Readiness advanced tables behind default-closed advanced views on mobile.
 - Added donor editorial independence, conflict disclosure, and no donor influence over pass/fail policies.
 - Hardened copy actions so restricted clipboard environments do not interrupt page flow.

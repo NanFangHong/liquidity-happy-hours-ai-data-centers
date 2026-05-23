@@ -45,8 +45,12 @@ The `research-package/` folder contains the RC3 PDF artifacts and RC2 workbook f
 
 The PDFs are RC3 because public caveats, role framing, and beta metadata were revised after earlier release candidates. The XLSX workbooks remain RC2 because the workbook formulas and certificate structure did not require the RC3 text-only PDF revisions.
 
+## Language Access
+
+The public quick cards now use a language-access baseline rather than a bilingual carveout: English, Spanish, Chinese, Tagalog/Filipino, Vietnamese, Arabic, French, Korean, and Portuguese. The downloadable kit is at `language-access/language-access-quick-cards-v1.0-public-beta-1.txt`.
+
 ## Release Hygiene
 
 - `CHANGELOG.md` records the public beta civic-product revision and institution-URL hardening.
 - `robots.txt` and `sitemap.xml` are included for static hosting.
-- Current release tag: `public-beta-1-institution-url`.
+- Current release tag: `public-beta-1-language-access`.

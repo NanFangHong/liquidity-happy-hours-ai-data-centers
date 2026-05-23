@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nanfanghong.github.io/liquidity-happy-hours-ai-data-centers/sitemap.xml
+Sitemap: https://nanfanghong.github.io/liquidity-happy-hours/sitemap.xml

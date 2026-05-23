@@ -1,5 +1,16 @@
 # Public Beta Changelog
 
+## Public Beta 1 institution-URL hardening
+
+- Added institution-level canonical URLs under `https://nanfanghong.github.io/liquidity-happy-hours/`.
+- Added static direct route HTML for organization pages and AI Data Center issue-lab pages.
+- Added a canonical issue-lab front door at `/issues/ai-data-centers/`.
+- Added copy, download, and phone-card actions to the Pocket Card page itself.
+- Added bilingual quick-card entry points for the method lines and five hearing questions.
+- Moved Evidence and Launch Readiness advanced tables behind default-closed advanced views on mobile.
+- Added donor editorial independence, conflict disclosure, and no donor influence over pass/fail policies.
+- Hardened copy actions so restricted clipboard environments do not interrupt page flow.
+
 ## Public Beta 1 civic-product revision
 
 - Repositioned Liquidity Happy Hours as the primary public brand.

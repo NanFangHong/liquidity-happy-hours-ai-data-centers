@@ -6,9 +6,20 @@ This is a soft public review tool. It is not legal advice, not an expert report,
 
 Core product promise: pick your role, clear one ledger, leave with a better question.
 
+## Public URLs
+
+Canonical institution URL:
+
+- `https://nanfanghong.github.io/liquidity-happy-hours/`
+- `https://nanfanghong.github.io/liquidity-happy-hours/issues/ai-data-centers/`
+
+Legacy AI Data Center URL remains available for compatibility:
+
+- `https://nanfanghong.github.io/liquidity-happy-hours-ai-data-centers/`
+
 ## Entry
 
-Open `index.html`, then use the in-page hash routes:
+Open `index.html`, use the direct static routes, or use the in-page hash routes:
 
 - `#/` — role-first Liquidity Happy Hours landing page
 - `#/about` — organization mission and operating rules
@@ -36,6 +47,6 @@ The PDFs are RC3 because public caveats, role framing, and beta metadata were re
 
 ## Release Hygiene
 
-- `CHANGELOG.md` records the public beta civic-product revision.
+- `CHANGELOG.md` records the public beta civic-product revision and institution-URL hardening.
 - `robots.txt` and `sitemap.xml` are included for static hosting.
-- Current release tag: `public-beta-1-civic-product`.
+- Current release tag: `public-beta-1-institution-url`.

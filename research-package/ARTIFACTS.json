@@ -1,0 +1,15 @@
+{
+  "note": "Research PDFs/XLSX copied from ../money-view-ai-data-centers/build. PDFs use the latest RC3 research artifacts when present; workbook files remain RC2 until the spreadsheet model receives a separate revision.",
+  "sourceDirectory": "/Users/nanfanghong/Desktop/GEO/Codex/money-view-ai-data-centers/build",
+  "copiedAt": "May 22, 2026 at 20:23 EDT",
+  "artifacts": [
+    "clearing-the-ledger-public-brief-v1.0-rc3.pdf",
+    "ai-data-centers-public-ledger-toolkit-v1.0-rc3.pdf",
+    "ai-data-centers-jurisdiction-memos-v1.0-rc3.pdf",
+    "ai-data-centers-hearing-handout-v1.0-rc3.pdf",
+    "ai-data-centers-pocket-card-v1.0-rc3.pdf",
+    "ai-data-centers-bilingual-brief.pdf",
+    "ai-data-center-ledger-certificate-template-v1.0-rc2.xlsx",
+    "ai-data-center-lite-certificate-v1.0-rc2.xlsx"
+  ]
+}

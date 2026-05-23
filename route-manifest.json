@@ -1,0 +1,21 @@
+{
+  "brand": "Liquidity Happy Hours",
+  "firstIssueLab": "AI Data Centers",
+  "routes": [
+    { "hash": "#/", "title": "Liquidity Happy Hours", "primaryAction": "Pick your role" },
+    { "hash": "#/about", "title": "About", "primaryAction": "Read operating rules" },
+    { "hash": "#/platform", "title": "Platform", "primaryAction": "Choose a role path" },
+    { "hash": "#/projects", "title": "Projects", "primaryAction": "Open the AI Data Centers issue lab" },
+    { "hash": "#/news", "title": "News", "primaryAction": "Review update and launch status" },
+    { "hash": "#/donate", "title": "Donate", "primaryAction": "Contact about early support" },
+    { "hash": "#/start-here", "title": "Start with your role", "primaryAction": "Choose a role path" },
+    { "hash": "#/pocket-card", "title": "Pocket Ledger Card", "primaryAction": "Copy five hearing questions" },
+    { "hash": "#/lite-review", "title": "Lite Ledger Review", "primaryAction": "Copy a hearing action card" },
+    { "hash": "#/claim-to-ledger", "title": "Claim-to-Ledger Analyzer", "primaryAction": "Paste an exact source sentence" },
+    { "hash": "#/county-x", "title": "County X Walkthrough", "primaryAction": "Copy hearing questions" },
+    { "hash": "#/reporter-kit", "title": "Reporter Kit", "primaryAction": "Check a headline" },
+    { "hash": "#/evidence", "title": "Evidence Register", "primaryAction": "Review open evidence gaps" },
+    { "hash": "#/social-assets", "title": "Social Assets", "primaryAction": "Download or copy a share card" },
+    { "hash": "#/launch-readiness", "title": "Launch Readiness", "primaryAction": "Review launch gates" }
+  ]
+}
